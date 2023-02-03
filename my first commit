@@ -1,0 +1,17 @@
+echo "# Mrchilzy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add root@4b9b65a91f8d:/# git clone https://0f83c73126ccbcfd45a0@github.com/Mrchilzy/alx-pre_course.git                                                   
+Cloning into 'alx-pre_course'...                                                                                                                     
+warning: You appear to have cloned an empty repository.                                                                                              
+root@4b9b65a91f8d:/# cd alx pre_course/                                                                                                              
+bash: cd: too many arguments                                                                                                                         
+root@4b9b65a91f8d:/# /alx-pre_course#                                                                                                                
+bash: /alx-pre_course#: No such file or directory                                                                                                    
+root@4b9b65a91f8d:/# /alx-pre_course# echo 'My first readme' > README.md                                                                             
+bash: /alx-pre_course#: No such file or directory                                                                                                    
+root@4b9b65a91f8d:/#  git@github.com:Mrchilzy/Mrchilzy.git                                                                                           
+git@github.com:Mrchilzy/alx-pre_course.git
+git push -u origin main
